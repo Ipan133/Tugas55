@@ -87,7 +87,7 @@
       }
 
       localStorage.setItem("username", username);
-      window.location.href = "pan.html";
+      window.location.href = "pe.html";
       return false;
     }
   </script>
